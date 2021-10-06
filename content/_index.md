@@ -2,8 +2,16 @@
 title: Home
 ---
 
-{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+# About Me (Yibin Fan)
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+I am an undergraduate student majoring in communication at Renmin University in China, Beijing.
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+The proliferation of online communities, especially those featured by peer production, has shown the potential of a new digital public life. I would like to conduct the social scientific research by investigating online communities like Reddit and Wikipedia, and I hope my research could contribute to a sustainable progress towards a flourishing Internet.
+
+To tackle issues relevant about online communities, I use mostly quantitive and computational methods in my work. I also have some experiences in qualitative methods, including ethnographic fieldwork and archival study.
+ 
+Now I am working as a research assistant in [Community Data Science Collective](https://wiki.communitydata.science/Main_Page), a research group focused on studying online communities. I help to build dataset which relates two online communities ([Fandom Wiki](fandom.com) and [Reddit](reddit.com)) in the project. Here are my [notes](https://ybfan115.github.io/en/2021/08/30/ra-notes/) about what skills and ideas I have got from this experience. More research experiences of mine can be found at the [Projects](https://ybfan115.github.io/en/projects/) or the [CV](https://ybfan115.github.io/en/cv/) page.
+
+During my spare time, I like swimming, running, and listening to [Peking opera](https://en.wikipedia.org/wiki/Peking_opera), which is a historic art more than 200 years old!
+
+Contact: fanyibin115@gmail.com
