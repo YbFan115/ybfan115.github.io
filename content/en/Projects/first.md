@@ -4,13 +4,12 @@ date: 2021-09-10T14:49:39+08:00
 draft: false
 ---
 
- - Undergraduate research project, 09/20 - 05/21
- - Presentation on undergraduate academic works competition
+ - Funded Undergraduate research project, 09/20 - 05/21
  - Advisor: Associate Professor Yan Yan (Ph.D. in communication at University of Alabama)
 
 ## Background
 
-Internet and technology use have changed the government behavior and the public life. In China, a large number of government related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance.
+Internet technology use has changed the government behavior and the public life. In China, a large number of government-related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance.
 
 This project was focused on a typical set of official accounts run by departments of the local government in a particular district. In this case, local citizens or residents have digital access to posing questions relevant about the public life, and are promised to get a prompt response and feedback from the government on the Weibo platform. The following figure shows how the feedback pattern runs.
 
@@ -18,7 +17,7 @@ This project was focused on a typical set of official accounts run by department
         <img src = "https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/MediatedGovern.png">
     </div>
 
-We were using mixed research methods to comprehensively understand the coordination, collaboration, and effects of the mediated government behavior.
+We were using mixed research methods to conduct three studies to understand the coordination, collaboration, and effects of the mediated government behavior.
 
 ## Study 1: Collaboration and coordination
 
@@ -31,7 +30,7 @@ We were using mixed research methods to comprehensively understand the coordinat
 
 ## Study 2: Governance, propoganda, or both?
 
-- Method: We pulled the data of all the local governance related tweets under the tag from 2015 to 2021 by Python. 
+- Method: We pulled the digital data of all the local governance related tweets under the tag from 2015 to 2021 by Python. 
 
 - Findings:
     1. The data consist of 1711 tweets, among which 1199 tweets are reposted by the coordinator account, which means only around one third in the amount of tweets are truly from those residents who used Weibo to pose local problems. The coordination account reposted the tweets in a short response time (mean = 9.57 h),  to conduct the collaboration with the departments, and to show off the government was playing its role in local governance.
@@ -51,11 +50,13 @@ We were using mixed research methods to comprehensively understand the coordinat
         <img src = "https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png ">
     </div>
 
-## Study 3: Digital divide and attitude difference
+## Study 3: Digital divide and participation difference
 
-- Method: Survey on a representative sample (n=188) of local residents who are the audience of official Weibo. Indepedent variables: Internet attitude, Internet skills, Internet use frequency, Internet outcomes. Dependent variable: the attitude towards participation in local governance.
-- Findings: 
-    1. Internet attitude was found to positively affect attitude towards participation in governance significantly, while Internet skills doesn't make an impact significantly.
-    2. For those who once use Weibo to pose problems (n=54), Internet use frequency could affect the attitude significantly, while the Internet outcomes had no significant influence.
+- Conference Paper Presentation: **Fan, Y.** (2021). The Effects of Digital Divide on the Citizen Engagement in Local Governance: Based on a Survey on the Audience of Official Weibo Run by Local Government in Ma'anshan. Paper presented on the [*2021 ICA-affiliated New Media International Conference in SJTU.*](https://en.sjtu.edu.cn/events/2046-call-for-papers-2021-ica-affiliated-new-media-international-conference-in-sjtu) *Shanghai, China.*
+- Method: Survey on a representative sample (n=288) of local residents who are the audience of official Weibo. 
+- Major findings: 
+    1. The degree of psychological acceptance of digital media can significantly improve citizens' appeal expression behavior and willingness to participate in local governance.
+    2. The frequency of using government microblogs can significantly increase the audience's willingness to participate in governance through government microblogs.
+
 
 
