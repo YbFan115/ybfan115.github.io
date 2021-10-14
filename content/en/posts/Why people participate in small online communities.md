@@ -1,6 +1,6 @@
 ---
 title: "Paper Notes: Why Small Communities"
-date: 2021-07-24T16:37:57+08:00
+date: 2021-09-28T16:37:57+08:00
 draft: false
 ---
 

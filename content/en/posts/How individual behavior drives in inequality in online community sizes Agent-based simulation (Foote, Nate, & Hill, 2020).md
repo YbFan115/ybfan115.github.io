@@ -1,6 +1,6 @@
 ---
 title: "Paper Notes: How individual behavior drives community size inequality"
-date: 2021-07-24T16:37:57+08:00
+date: 2021-10-02T16:37:57+08:00
 draft: false
 ---
 
